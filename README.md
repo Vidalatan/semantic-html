@@ -43,6 +43,8 @@ THEN I find a concise, descriptive title
 
 ## Finished Product
 
+![Full Webpage Screenshot](./assets/images/horiseonpage.png)
+
 Link to live [Horiseon Webpage](https://vidalatan.github.io/semantic-html/)
 
 Link to [Code Repository](https://github.com/Vidalatan/semantic-html)
